@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RfOva07ExmGIvN08ZpMALqO4b4eHUK3Xl0EchOGW9JnJ3ogaMXfC15hVmFdY/3a5zj1YHk+C5Z0TBLC0kZ502g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emars\\Source\\Repos\\197-Link-Bilgisayar-Net-Bootcamp\\week-2-assigment-trgykrk\\Hafta2Odev.API\\Hafta2Odev.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emars\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\emars\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\emars\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\emars\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\emars\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\emars\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

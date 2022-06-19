@@ -1,0 +1,15 @@
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\bin\Debug\net6.0\Hafta2Odev.SOLID.exe
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\bin\Debug\net6.0\Hafta2Odev.SOLID.deps.json
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\bin\Debug\net6.0\Hafta2Odev.SOLID.runtimeconfig.json
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\bin\Debug\net6.0\Hafta2Odev.SOLID.dll
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\bin\Debug\net6.0\ref\Hafta2Odev.SOLID.dll
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\bin\Debug\net6.0\Hafta2Odev.SOLID.pdb
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.csproj.AssemblyReference.cache
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.AssemblyInfoInputs.cache
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.AssemblyInfo.cs
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.dll
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\ref\Hafta2Odev.SOLID.dll
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.pdb
+C:\Users\emars\Source\Repos\197-Link-Bilgisayar-Net-Bootcamp\week-2-assigment-trgykrk\Hafta2Odev.SOLID\obj\Debug\net6.0\Hafta2Odev.SOLID.genruntimeconfig.cache
